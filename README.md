@@ -1,8 +1,14 @@
 <div>
   <h1 style="display:flex; align-items:center; gap:12px;">
-    Welcome to Guillaume Profile
+    Welcome to Guillaume Xue
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl1cHJjb2EwYXFtcGIxb2VkbmF0Y3B2bm8ya3FkZGJjeGdrb2pidiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BiSeh1hFJ2waKPld1p/giphy.gif" alt="welcome" style="height:70px; display:block;">
   </h1>
+
+  <h2 align="center">🧑‍🎓 Master's student · 💻 Full‑Stack Developer · ☕ Java preference | 🇫🇷 FR · 🇨🇳 CN</h2>
+
+  <p align="center">I'm a Master's student and Full‑Stack Developer with a strong preference for Java. I build dependable backend services and modern frontends (React, Vue).</p>
+
+  <p align="center">Explore my repositories for projects and demos. I'm open to internships, collaborations, and discussions — feel free to reach out on GitHub.</p>
 </div>
 
 ## ⚙️ Back-end

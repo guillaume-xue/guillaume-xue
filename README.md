@@ -1,7 +1,6 @@
 <div>
   <h1 style="display:flex; align-items:center; gap:12px;">
     Welcome to Guillaume Xue
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl1cHJjb2EwYXFtcGIxb2VkbmF0Y3B2bm8ya3FkZGJjeGdrb2pidiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BiSeh1hFJ2waKPld1p/giphy.gif" alt="welcome" style="height:70px; display:block;">
   </h1>
 
   <h2 align="center">🧑‍🎓 Master's student · 💻 Full‑Stack Developer · ☕ Java preference | 🇫🇷 FR · 🇨🇳 CN</h2>
